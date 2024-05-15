@@ -1,8 +1,8 @@
 # MotionMemo_CV
-* Motion Memo 서비스를 위한 모델 학습 작업
-* 프로메테우스 AI 해커톤 2024 예선 참가작 
+* Building Models for Motion Memo Service
+* Participated in Prometheus AI Hackathon 2024
 
-# 시연영상 
+# Demo Video
 https://github.com/thisischeese/MotionMemo_ML/assets/80524511/396f39bb-3df0-457e-9468-fc0886a5f563
 
 # Reference 
